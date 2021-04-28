@@ -1,4 +1,4 @@
-<p text-align font-size-30 > Este é um resumo do meu projeto LandingPage</p>
+<h2 align="center"> Este é um resumo do meu projeto LandingPage</h2>
 
 <img src="https://i.imgur.com/u4Q0Qyo.png" alt="">
 <br>
